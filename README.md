@@ -12,5 +12,5 @@ Interactive Elements: Smooth scrolling, hover effects, and interactive component
 Technologies Used:
 
 HTML: For the structure and content of the web pages.
-CSS: For styling, including layout, colors, fonts, and responsive design.
-JavaScript: For interactivity, such as form validation, dynamic content updates, and animations.
+CSS: For styling, including layout, colors, fonts, and responsive design..
+JavaScript: For interactivity, such as form validation, dynamic content updates, and animations..
